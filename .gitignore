@@ -1,0 +1,12 @@
+# ignore CDK generated files
+*env
+cdk/cdk.out/
+cdk-spot/cdk.out/
+cdk-az/cdk.out/
+cdk.context.json
+
+# ignore emacs auto-save files
+*~
+
+# ignore IDEA project files
+.idea
